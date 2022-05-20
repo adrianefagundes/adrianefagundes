@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianefagundes
 - 👀 I’m interested in ... HTML, JavaScript, CSS, Bootstrap, React.
-- :brain: I’m currently learning ... HTML and CSS.
+- :brain: I’m currently learning ... JavaScript.
 - 📫 How to reach me ... adriane.cristina.fagundes@gmail.com
 - :woman_technologist: If you want to know about my study/work routine... https://www.instagram.com/adri.webdev/
 
